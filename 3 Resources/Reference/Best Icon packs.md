@@ -1,0 +1,2 @@
+- Whicons -white icons
+- Zwart -black icons
