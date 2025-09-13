@@ -10,6 +10,4 @@
 - [ ] Sign in token expire fix
 - [ ] The month headers to stick when scroll down 
 
-### ![[CS50's Introduction to Computer Science#Tasks]]
-
 ### ![[Direction]]
