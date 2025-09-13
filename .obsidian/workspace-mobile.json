@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "- Inbox/Gamified life.md",
+                "file": "- Inbox/Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gamified life"
+              "title": "Tasks"
             }
           }
         ]
@@ -167,6 +167,7 @@
   },
   "active": "ff6f59d2754b9113",
   "lastOpenFiles": [
+    "- Inbox/Gamified life.md",
     "Direction.md",
     "4 Archives/Attachement/Trollywood 3.png",
     "4 Archives/Attachement/Trident method weekly plan -Ali abdaal.png",
@@ -178,7 +179,7 @@
     "4 Archives/Attachement/Obsidian folder structure.png",
     "4 Archives/Attachement/Plan365 demo screenshot.png",
     "4 Archives/Attachement/Vim Keybindings.png",
-    "4 Archives/Tasks.md",
+    "- Inbox/Tasks.md",
     "4 Archives/Weekly review - This weekly practice changed my life.md",
     "4 Archives/Attachement",
     "4 Archives/Plan365.md",
@@ -211,7 +212,6 @@
     "3 Resources/YouTube/YouTube Subscription list.md",
     "3 Resources/YouTube/Editing Tutorials.md",
     "3 Resources/YouTube/Video Ideas.md",
-    "3 Resources/YouTube/Editing Apps.md",
-    "3 Resources/Code/Semantic Version.md"
+    "3 Resources/YouTube/Editing Apps.md"
   ]
 }
