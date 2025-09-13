@@ -20,8 +20,24 @@
               "icon": "lucide-file",
               "title": "Tasks"
             }
+          },
+          {
+            "id": "577a9d81bb9beeba",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/core-plugins.json",
+                "bFile": ".obsidian/core-plugins.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: core-plugins.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Archives/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tasks"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Archives/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tasks"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Archives/Tasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tasks"
+              "title": "Outline"
             }
           },
           {
@@ -180,8 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c870d40e41bba9e2",
+  "active": "577a9d81bb9beeba",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "4 Archives/Tasks.md",
+    "- Inbox/Tasks.md",
     "4 Archives/Plan365.md",
     "- Inbox/Gamified life.md"
   ]
