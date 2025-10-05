@@ -11,10 +11,24 @@
             "id": "314e9fec13472a06",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/Wallaper.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Wallaper"
             }
           }
         ]
@@ -145,12 +159,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "bases:Create new base": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
       "omnisearch:Omnisearch": false,
-      "random-note:Open random note": false
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "314e9fec13472a06",
