@@ -1,4 +1,0 @@
-- Download playlist through [[Download from YouTube yt-dlp]]
-- Save in Google drive *for sync*
-- pc: Vlc media player or Media player
-- ios: Melodista
