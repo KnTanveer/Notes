@@ -1,0 +1,54 @@
+{
+  "logoType": "none",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "monospaceFont",
+  "fontSize": "4em",
+  "fontColorType": "accentColor",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "x/Guide to live an Intentional life.md",
+      "timestamp": 1742628024231
+    },
+    {
+      "filepath": "_Inbox/Books to read.md",
+      "timestamp": 1742628010999
+    },
+    {
+      "filepath": "_Inbox/Book notes guide.md",
+      "timestamp": 1742627996019
+    },
+    {
+      "filepath": "_Inbox/Indistractable by Nir Eyal.md",
+      "timestamp": 1742627995411
+    },
+    {
+      "filepath": "_Inbox/Best things To-Do.md",
+      "timestamp": 1742627994808
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": true,
+  "showOmnisearchExcerpt": true
+}

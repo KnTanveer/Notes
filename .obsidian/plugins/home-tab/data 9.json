@@ -1,0 +1,54 @@
+{
+  "logoType": "none",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "monospaceFont",
+  "fontSize": "4em",
+  "fontColorType": "accentColor",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "x/Books to read.md",
+      "timestamp": 1742627903459
+    },
+    {
+      "filepath": "_Inbox/Order of book reading.md",
+      "timestamp": 1742627832767
+    },
+    {
+      "filepath": "Atomic/Habit Stacking.md",
+      "timestamp": 1742627730958
+    },
+    {
+      "filepath": "Atomic/Energy distribution (battlefield).md",
+      "timestamp": 1742627730596
+    },
+    {
+      "filepath": "x/Templates/Notes.md",
+      "timestamp": 1742627018107
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": true,
+  "showOmnisearchExcerpt": true
+}

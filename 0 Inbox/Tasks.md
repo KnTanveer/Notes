@@ -1,0 +1,14 @@
+- Komorebi 
+	- [ ] Auto start 
+	- [ ] Wi-Fi 
+	- [ ] Bluetooth
+- App launcher 
+	- [ ] Browser 
+	- [ ] Terminal 
+	- [ ] Obsidian
+	- [ ] WhatsApp
+	- [ ] Raindrop 
+- [ ] C programming journal
+- [ ] Plan for assessments
+- [ ] Remap obsidian hotkeys
+- [ ] Find out is neovim really worth it

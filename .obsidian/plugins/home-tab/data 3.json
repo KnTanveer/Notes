@@ -1,0 +1,54 @@
+{
+  "logoType": "none",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "monospaceFont",
+  "fontSize": "4em",
+  "fontColorType": "accentColor",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "_Inbox/Indistractable by Nir Eyal.md",
+      "timestamp": 1742626804859
+    },
+    {
+      "filepath": "Source/Videos/Weekly review - This weekly practice changed my life.md",
+      "timestamp": 1742626740597
+    },
+    {
+      "filepath": "Source/Videos/No gloom journey.md",
+      "timestamp": 1742626732486
+    },
+    {
+      "filepath": "Source/Videos/Movie log.md",
+      "timestamp": 1742626715060
+    },
+    {
+      "filepath": "Source/Videos/Life changing.md",
+      "timestamp": 1742626707951
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": true,
+  "showOmnisearchExcerpt": true
+}
