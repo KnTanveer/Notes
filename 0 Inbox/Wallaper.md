@@ -1,3 +1,0 @@
-- [GitHub - NischalDawadi/Wallpapers: Cool walls I have found](https://github.com/NischalDawadi/Wallpapers)
-- [Wallpaper-Bank/wallpapers at main · JaKooLit/Wallpaper-Bank · GitHub](https://github.com/JaKooLit/Wallpaper-Bank/tree/main/wallpapers)
-- [aesthetic-wallpapers/images at main · D3Ext/aesthetic-wallpapers · GitHub](https://github.com/D3Ext/aesthetic-wallpapers/tree/main/images)
